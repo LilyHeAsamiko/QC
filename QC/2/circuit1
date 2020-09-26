@@ -1,0 +1,29 @@
+%matplotlib inline
+# Importing standard Qiskit libraries and configuring account
+from qiskit import *
+# Loading your IBM Q account(s)
+provider = IBMQ.load_account()
+#/opt/conda/lib/python3.7/site-packages/qiskit/providers/ibmq/ibmqfactory.py:192:
+#UserWarning: Timestamps in IBMQ backend properties, jobs, and job results are
+#all now in local time instead of UTC.
+#warnings.warn('Timestamps in IBMQ backend properties, jobs, and job results '
+[2]: #from qiskit import QuantumRegister, ClassicalRegister, QuantumCircuit
+from numpy import pi
+qreg_q = QuantumRegister(2, 'q')
+creg_c = ClassicalRegister(2, 'c')
+qc = QuantumCircuit(qreg_q, creg_c)
+qc.h(qreg_q[0])
+qc.s(qreg_q[0])
+qc.h(qreg_q[0])
+qc.cx(qreg_q[0],qreg_q[1])
+qc.h(qreg_q[1])
+qc.h(qreg_q[1])
+qc.measure(qreg_q, creg_c)
+qc.draw()
+for i in [1,10,100,1000]:
+    backend=Aer.get_backend('qasm_simulator')
+    job = execute(qc, backend, shots=i) 
+    # shots default = 1024 
+    result = job.result()
+    print(result.get_counts()) 
+    plot_histogram(result.get_counts())
