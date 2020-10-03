@@ -1,0 +1,28 @@
+h =
+
+     0
+
+
+p =
+
+    1.0000
+
+
+ci =
+
+  Column 1
+
+  -0.0893 - 0.0000i
+
+  Column 2
+
+   0.0893 - 0.0000i
+
+
+stats = 
+
+  struct with fields:
+
+    tstat: 9.2951e-16 - 1.3937e-17i
+       df: 2
+       sd: 0.0359
