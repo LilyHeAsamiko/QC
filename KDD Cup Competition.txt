@@ -1,0 +1,56 @@
+http://homepages.cae.wisc.edu/~ece539/data/
+
+List of Public Domain Data Files
+M: Feature vector dimension, N: # of classes.
+xor -- XOR problem data file, M = 2, N = 1
+and -- AND problem data file, M = 2, N = 2
+parity4 -- 4-bit parity problem data file, M = 4, N = 1
+parity7 training data, and parity7 testing data -- 7-bit parity problem data file M = 7, N = 1
+IRIS training data IRIS testing data: IRIS classification problem data file, M = 4, N = 3.
+Time series prediction competition. , and data file.
+Data Files Generated at UW-Madison, ECE Department
+ECG beat classification data set. This data set has 9 features, and one output (two classes: normal vs. pre-mature ventricular contraction (PVC) beats). The PS file describes how these features are extracted, and the data file.
+EEG pattern classification data and Readme file.
+Image datasets
+MNIST: Handwritten digits dataset, 60000 training samples, 10000 testing samples, 10 classes.
+Matlab m-file reading the MINIST dataset by Sidharth Hegde. Python code to import MNIST dataset locally.
+CIFAR-10 dataset: 60000 32 by 32 color images in 10 classes with 6000 images/class. 50000 training images and 10000 test images.
+Fashion-mnist: a MNIST-like fashion product database. 60000 training samples and 10000 testing samples with 10 classes.
+Medical Imaging Datasets
+Medpix -- a free open-access online database by National Library of Medicine. Contains medical images, teaching cases, and clinical topics, integrating images and textual metadata including over 12,000 patient case scenarios, 9,000 topics, and nearly 59,000 images.
+Open-Access Medical Image Repositories
+List of Open Access Medical Imaging Datasets post by radRounds Radiology Network.
+DeepLesion, Paper (2018), and Data
+TCIA: The Cancer Image Archive
+Physionet Data Bank
+Physionet main site
+Physionet and Computing-in-Cardiology Challengs: A series of challenges for solving clinically interesting ECG (electro-cardiology) problems that are either unsolved or not well-solved. Some examples are listed below:
+2015 Challenge: Reducing False Arrhythmia Alarms in ICU
+2017 Challenge: AF Classification from a short single lead ECG recording
+Face Recognition Datasets
+Face Recognition Vendor Test (FRVT) by NIST
+Face Recognition Prize Challenge 2017 by NIST
+FACE RECOGNITION HOMEPAGE
+Labeled Faces in the Wild
+Face recognition (Kaggle)
+Audio/Speech datasets
+Free Spoken Digit Dataset: Identify spoken digits in audio samples. 3 speakers, 1,500 recordings (50 of each digit per speaker), English pronunciations. Here is the Related publication
+VoxCeleb: a large-scale speaker identification dataset. 100,000 utterances by 1,251 celebrities, extracted from YouTube videos. Here is the Related publication
+Kaggle Datasets
+Kaggle Competitions
+Kaggle Datasets
+Kaggle Kernels: some solutions to competions and datasets.
+CMU Neural Bench Archive
+Nettalk data file, Readme file, and List of words.
+Speaker independent recognition of the eleven steady state vowels of British English using a specified training set of lpc derived log area ratios. Readme file, vowel.c, and vowel.data.
+UCI Machine Learning Repository
+README and the home page.
+Three stratified partitions of the wine classification date set from UCI machine learning dataset collections. feature dimensin M = 13, number of classes N = 3: Partition A, Partition B, Parition C
+Mushroom data set: Readme file, and data file.
+Wisconsin Breast Cancer data, and the Readme file.
+Lung Cancer data , and Readme file.
+DNA prediction data set: Readme file, DNA sequencing theory , and the data file.
+KDnuggests Datasets for Data Mining
+A large public-domain dataset collections to different storage locations. Many of these data sets are real world, large data files.
+KDD Cup Competition
+Between 2003 to present (2008), IEEE ICDM (International Conference on Data Mining) is holding data mining context. Large scale, real world data sets are published and participants report their results.
