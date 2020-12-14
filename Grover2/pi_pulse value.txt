@@ -1,0 +1,7 @@
+Qubit 0 has an estimated frequency of 4.974446855948306 GHz.
+The sweep will go from 4.954446855948306 GHz to 4.994446855948306 GHz in steps of 1.0 MHz.
+
+We've updated our qubit frequency estimate from 4.97445 GHz to 0.09391 GHz.
+
+Pi Amplitude = 0.2571619947889289
+
