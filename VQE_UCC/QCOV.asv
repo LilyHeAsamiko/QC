@@ -1,0 +1,11 @@
+function QSigma = QCOV(r)
+    r = transpose(r);  %colum
+    V = cov(r);
+    x = transpose(r(1:2:len(r)-1));
+    p = transpose(r(2:2:len(r)));
+    alpha = x + p*1i;
+    da = alpha - mean(alpha);
+    B = [x,p];
+    C = [ones(l,1), 1i*1; 1, -i*1];
+    QSigma = 0.25*(B*C)*V*conj(C)*conj(B)+0.5*ones(); 
+end

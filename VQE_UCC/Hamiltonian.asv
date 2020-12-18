@@ -1,0 +1,6 @@
+function H = Hamiltonian(p,q,r,s,d)
+    if d == 2
+        H0 = -74.9749;
+        H0 = H0.*exp([-1,0;1,1].*conj(S1)
+    end
+end

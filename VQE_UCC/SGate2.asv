@@ -1,0 +1,11 @@
+function S2 = SGate2(L,r,k,theta)
+    lambda = 1/r;
+    S2 = ones(L,L);
+    H =Hamiltonian(p,q,r,s,d,theta, L, S1, S2);
+    for j = 1: L
+        S2 = S2.*exp(-1i*theta*H*lambda/2);
+    end
+    for j = L:-1:1
+        S2 = S2.*exp(-1i*theta*H*lambda/2);
+    end
+end

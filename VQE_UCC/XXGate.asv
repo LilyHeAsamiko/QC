@@ -1,0 +1,5 @@
+function XX = XXGate(theta, L)
+    XX = exp(-1i*theta);    
+    if L == 2
+        XX = XX*
+end

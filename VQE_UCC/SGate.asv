@@ -1,0 +1,21 @@
+function S1 = SGate(L,r,k,theta)
+    lambda = 1/r;
+    S1 = ones(L,L);
+    for j = 1: L
+        S1 = S1.*exp(-1i*theta*H*lambda);
+        S2 = S2.*exp(-1i*theta*H*lambda/2);
+    end
+    for j = L:-1:1
+        S2 = S2.*exp(-1i*theta*H*lambda/2);
+    end
+    p = 1;
+    if mod(k,2) == 0
+        S = S2;
+    else
+        S = S1;
+    end
+    for i = 1:k
+        p = 1/(4-4^(1/(2*k-1)));
+    end
+    S2k = S2k^2
+end
