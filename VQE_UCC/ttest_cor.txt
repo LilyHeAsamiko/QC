@@ -1,0 +1,317 @@
+ci
+
+ci(:,:,1) =
+
+  Column 1
+
+     0
+     0
+
+  Column 2
+
+     0
+     0
+
+  Column 3
+
+     0
+     0
+
+  Column 4
+
+     0
+     0
+
+
+ci(:,:,2) =
+
+  Column 1
+
+     0
+     0
+
+  Column 2
+
+     0
+     0
+
+  Column 3
+
+     0
+     0
+
+  Column 4
+
+     0
+     0
+
+>> stats
+
+stats = 
+
+  struct with fields:
+
+    tstat: [1×4×2 double]
+       df: [1×4×2 double]
+       sd: [1×4×2 double]
+
+>> [h,p,ci,stats] = ttest2(Qbest,Qbest);
+>> h
+
+h(:,:,1) =
+
+  Column 1
+
+     0
+
+  Column 2
+
+     0
+
+  Column 3
+
+     0
+
+  Column 4
+
+     0
+
+
+h(:,:,2) =
+
+  Column 1
+
+     0
+
+  Column 2
+
+     0
+
+  Column 3
+
+     0
+
+  Column 4
+
+     0
+
+>> p
+
+p(:,:,1) =
+
+  Column 1
+
+     1
+
+  Column 2
+
+     1
+
+  Column 3
+
+     1
+
+  Column 4
+
+     1
+
+
+p(:,:,2) =
+
+  Column 1
+
+     1
+
+  Column 2
+
+     1
+
+  Column 3
+
+     1
+
+  Column 4
+
+     1
+
+>> ci
+
+ci(:,:,1) =
+
+   1.0e-15 *
+
+  Column 1
+
+   -0.0139
+    0.0139
+
+  Column 2
+
+   -0.7122
+    0.7122
+
+  Column 3
+
+   -0.2672
+    0.2672
+
+  Column 4
+
+   -0.0021
+    0.0021
+
+
+ci(:,:,2) =
+
+   1.0e-15 *
+
+  Column 1
+
+   -0.0139
+    0.0139
+
+  Column 2
+
+   -0.2671
+    0.2671
+
+  Column 3
+
+   -0.7122
+    0.7122
+
+  Column 4
+
+   -0.0021
+    0.0021
+
+>> stats
+
+stats = 
+
+  struct with fields:
+
+    tstat: [1×4×2 double]
+       df: [1×4×2 double]
+       sd: [1×4×2 double]
+
+>> stats.tstat
+
+ans(:,:,1) =
+
+  Column 1
+
+     0
+
+  Column 2
+
+     0
+
+  Column 3
+
+     0
+
+  Column 4
+
+     0
+
+
+ans(:,:,2) =
+
+  Column 1
+
+     0
+
+  Column 2
+
+     0
+
+  Column 3
+
+     0
+
+  Column 4
+
+     0
+
+>> stats.df
+
+ans(:,:,1) =
+
+  Column 1
+
+    98
+
+  Column 2
+
+    98
+
+  Column 3
+
+    98
+
+  Column 4
+
+    98
+
+
+ans(:,:,2) =
+
+  Column 1
+
+    98
+
+  Column 2
+
+    98
+
+  Column 3
+
+    98
+
+  Column 4
+
+    98
+
+stats.sd
+
+ans(:,:,1) =
+
+   1.0e-14 *
+
+  Column 1
+
+    0.0035
+
+  Column 2
+
+    0.1794
+
+  Column 3
+
+    0.0673
+
+  Column 4
+
+    0.0005
+
+
+ans(:,:,2) =
+
+   1.0e-14 *
+
+  Column 1
+
+    0.0035
+
+  Column 2
+
+    0.0673
+
+  Column 3
+
+    0.1795
+
+  Column 4
+
+    0.0005
