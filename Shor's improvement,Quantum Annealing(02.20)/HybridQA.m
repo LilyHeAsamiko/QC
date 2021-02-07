@@ -13,28 +13,97 @@
 
 %The Ising function is to be optimized with the local fields: h’ =(?z(1) , ?z(2) , ?z(3) ,?z(4)) = (58, 50, 12, -80) 
 %Couplings J = (?z(1) ,?z(2) , ?z(3) ,?z(4))’ , where ?z(1) = (0 ,25,-6,-64), ?z(2) = (0 ,0,2,-64), ?z(3) = (0,0,0,16), ?z(4) = (0,0,0,0) 
+z = zeros(1,4);
+z(1) = 58;
+z(2) = 50;
+z(3) = 12;
+z(4) = -80;
+hi = z; 
+J = zeros(4,4);
+J(1,:) = hi;
+J(2,:) = [0,25,-6,-64];
+J(3,:) = [0,0,2,-64];
+J(4,:) = [0,0,0,16];
+%MC
+% assume fully connected, s in {-1?1}
+sx = [1,1,1,1;1,1,1,-1;1,1,-1,1;1,-1,1,1;-1,1,1,1;1,1,-1,-1;1,-1,1,-1;-1,1,1,-1;1,-1,-1,1;-1,1,-1,1;-1,-1,1,1;1,-1,-1,-1;-1,1,-1,-1;-1,-1,1,-1;-1,-1,-1,1;-1,-1,-1,-1];
+T = 1.57
+kB = 1
+h = 1
+E = kB*T;
+Hp = zeros(1,16);
+for i= 1:16
+    Hp(i) = 58*sx(i,1)+50*sx(i,2)+12*sx(i,3)-80*sx(i,4)+25*sx(i,1)*sx(i,2)-6*sx(i,1)*sx(i,3)-64*sx(i,1)*sx(i,4)+2*sx(i,2)*sx(i,3)-64*sx(i,2)*sx(i,4)+16*sx(i,3)*sx(i,4)+149;
+    Q(i,:)
+end
+% assume units T = 12.1mK = 1.57GHz, kB = 1, h = 1, Wcut = 1THz, eta = 10^(-3), L = 10  
+AB = xlsread('D:\Conference\Germany\09-1216A-A_DW_2000Q_6_annealing_schedule_data.xlsx');
+sAB = AB(:,1);
+A = AB(:,2);
+B = AB(:,3);
+C = AB(:,4);
+ds = length(A)/length(sf);
+[minHp,iid] = min(Hp);
+HQ = A(1:ds:end)*H0+B(1:ds:end)*Hp(iid);
+Q = Hp
+figure()
+plot(A(1:ds:end),'b')
+hold on 
+plot(B(1:ds:end), 'r')
+hold on
+% plot([1 200],[E E], 'o')
+% hline = gline;
+% set(hline, 'k--');
+yline(E, '--')
+legend({'A(s)';'B(s)';'E = kBT'})
+xlabel('s')
+ylabel('Schedule(GHz)')
+title('Annealing Schedule AB')
 
-z = zeros(4,4);
-z(1,:) = [0,25,-6,-64];
-z(2,:) = [0,0,2,-64];
-z(3,:) = [0,0,0,16];
-z(4,:) = [0,0,0,0];
-hi = [58;50;12;-80]; 
-J = z';
+figure()
+plot(0:1/199:1,A(1:ds:end)/B(1:ds:end)/200,'b')
+hold on 
+plot(C(1:ds:end)/200, 'r--')
+legend({'Q(s)';'C(s) = kBT/B(s)'})
+xlabel('s')
+ylabel('Dimensionaless Schedule(GHz)')
+title('Annealing Schedule QC')
+
+
+% initialize with random s
+sx0 = sx(randi(16),:);%1:16
+H0 = -0.5*sum(sx0); 
 %normalize z into {-1,+1}
 zn = normalize(z,'range'); 
 
 %Note that,aQUBO problem if xi?{0,1} and an Ising problem if xi?{?1,+1} 
-T = 100; % fixed
-t = 0:100;
-ra = 1/100*t;
+%s(t) insert 1us pause into 1us anneal time
+ta = 100; % anealing time
+tp = 100; %pause time: 100ns, 0.1us 
+s = 50;
+%ra = 1/100*t;
+%example with pause:
+t = [0:ta+tp-1];
+sf = [0:s-1,s*ones(1,tp),s:ta-1]; 
+sr = [ta-1:-1:ta-s,s*ones(1,tp),s:ta-1]; 
+figure()
+plot(sf/ta);
+hold on 
+plot(sr/ta,'--');
+legend(['Forward';'Reverse'])
+title('annealing parameter s as a functiion of time t')
+xlabel('t(us)')
+ylabel('s')
+
+
+
 sA = ones(9, length(t));% for RA
 QHGh = ones(9, 4);
 QHGt = ones(9, 4, length(t));
 QHGhpred = QHGh;
 QHGtpred = QHGt;
+%RA+FA
 for p = 0.1:0.9
-    %RA
     sa = ones(size(t))*p;%*
     %decrease the anneal fraction stoapoint(tainv,sinv)
     for t = 0:40
