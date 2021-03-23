@@ -1,0 +1,16 @@
+Method to repeat one qubit three times?
+Entanglement
+Problem: the probability  to flip the state of qubit is p in noisy channel C. We thus can define the action of C on an input I as: C(I) = (1-p)*I+p*not(I) = (1-p)*I+p*X*I*X
+
+Assume we have the state |A> = a|0>+b|1>, it will be transmitted with probability 1-p without error correcting.
+To improve, we operate |0> -> |000> and |1> -> |111> with two CNOT gate entangling the system with two ancillary qubits initialized as |0>. The input state |A>-> |A’>=a|000>+b|111>. 
+
+Tricks here is with the error correction is based on perfectly corrects :
+	If more than one qubit{i,j} is flipped,then the rest qubit {k} among {I,j,k} is can be measured by syndrome measurement with Pk and flipped with {I,j} unchanged.
+Thus we can equalize the problem into ‘Filp one qubit only’ satisfies the ‘error occurs ’ with the prominent non-local equations {Pn},n = 0,1,2,3:
+P0 = |000><000|+|111><111|
+P1 = |100><100|+|011><011|
+P2 = |010><010|+|101><101|
+P3 = |001><001|+|110><110|
+Measure ZiZj and then ZjZk, and correction is made on Pn observed if any n >0:
+Apply pauli X gate to the nth qubit while do nothing if n =0. We thus have the error correction defined: Cerr(A) = P0*A*P0 + sum(Xn*Pn*A*Pn*Xn), n >0
