@@ -1,0 +1,1600 @@
+0
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+1
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+2
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+3
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+4
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+5
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+6
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+7
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+8
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+9
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+10
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+11
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+12
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+13
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+14
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+15
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+16
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+17
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+18
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+19
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+20
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+21
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+22
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+23
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+24
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+25
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+26
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+27
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+28
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+29
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+30
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+31
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+32
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+33
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+34
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+35
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+36
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+37
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+38
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+39
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+40
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+41
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+42
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+43
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+44
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+45
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+46
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+47
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+48
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+49
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+50
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+51
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+52
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+53
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+54
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+55
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+56
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+57
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+58
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+59
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+60
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+61
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+62
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+63
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+64
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+65
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+66
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+67
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+68
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+69
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+70
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+71
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+72
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+73
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+74
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+75
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+76
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+77
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+78
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+79
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+80
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+81
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+82
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+83
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+84
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+85
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+86
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+87
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+88
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+89
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+90
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+91
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+92
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+93
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+94
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+95
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+96
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+97
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+98
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+99
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+100
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+101
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+102
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+103
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+104
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+105
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+106
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+107
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+108
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+109
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+110
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+111
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+112
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+113
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+114
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+115
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+116
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+117
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+118
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+119
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+120
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+121
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+122
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+123
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+124
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+125
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+126
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+127
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+128
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+129
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+130
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+131
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+132
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+133
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+134
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+135
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+136
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+137
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+138
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+139
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+140
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+141
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+142
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+143
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+144
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+145
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+146
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+147
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+148
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+149
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+150
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+151
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+152
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+153
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+154
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+155
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+156
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+157
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+158
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+159
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+160
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+161
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+162
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+163
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+164
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+165
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+166
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+167
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+168
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+169
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+170
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+171
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+172
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+173
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+174
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+175
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+176
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+177
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+178
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+179
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+180
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+181
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+182
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+183
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+184
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+185
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+186
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+187
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+188
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+189
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+190
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+191
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+192
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+193
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+194
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+195
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+196
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+197
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+198
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+199
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+200
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+201
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+202
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+203
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+204
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+205
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+206
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+207
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+208
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+209
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+210
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+211
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+212
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+213
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+214
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+215
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+216
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+217
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+218
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+219
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+220
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+221
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+222
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+223
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+224
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+225
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+226
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+227
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+228
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+229
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+230
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+231
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+232
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+233
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+234
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+235
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+236
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+237
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+238
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+239
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+240
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+241
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+242
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+243
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+244
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+245
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+246
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+247
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+248
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+249
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+250
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+251
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+252
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+253
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+254
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+255
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+256
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+257
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+258
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+259
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+260
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+261
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+262
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+263
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+264
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+265
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+266
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+267
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+268
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+269
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+270
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+271
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+272
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+273
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+274
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+275
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+276
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+277
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+278
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+279
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+280
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+281
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+282
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+283
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+284
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+285
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+286
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+287
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+288
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+289
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+290
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+291
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+292
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+293
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+294
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+295
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+296
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+297
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+298
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+299
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+300
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+301
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+302
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+303
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+304
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+305
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+306
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+307
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+308
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+309
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+310
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+311
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+312
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+313
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+314
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+315
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+316
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+317
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+318
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+319
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+320
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+321
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+322
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+323
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+324
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+325
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+326
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+327
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+328
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+329
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+330
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+331
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+332
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+333
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+334
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+335
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+336
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+337
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+338
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+339
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+340
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+341
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+342
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+343
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+344
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+345
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+346
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+347
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+348
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+349
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+350
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+351
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+352
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+353
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+354
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+355
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+356
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+357
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+358
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+359
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+360
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+361
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+362
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+363
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+364
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+365
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+366
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+367
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+368
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+369
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+370
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+371
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+372
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+373
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+374
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+375
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+376
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+377
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+378
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+379
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+380
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+381
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+382
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+383
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+384
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+385
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+386
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+387
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+388
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+389
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+390
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+391
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
+392
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+393
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+394
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+395
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.20446096654275087, intercept=0.8698884758364313, rvalue=0.4390643264264451, pvalue=0.08885556471109464, stderr=0.111818811806364)
+396
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=0.0, pvalue=1.0, stderr=inf)
+397
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+398
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=nan, intercept=nan, rvalue=nan, pvalue=nan, stderr=nan)
+399
+stats._stats_mstats_common.LinregressResult
+5
+LinregressResult(slope=0.2272727272727273, intercept=0.875, rvalue=0.5096471914376256, pvalue=0.04373638960262131, stderr=0.10254293309969974)
