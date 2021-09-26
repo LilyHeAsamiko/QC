@@ -1,0 +1,302 @@
+print('\nShor Code')
+print('--------------')
+
+from qiskit import QuantumRegister
+from qiskit import ClassicalRegister
+from qiskit import QuantumCircuit, execute,IBMQ
+from qiskit.tools.monitor import job_monitor
+%matplotlib inline
+
+IBMQ.enable_account('a93830f80226030329fc4e2e4d78c06bdf1942ce349fcf8f5c8021cfe8bd5abb01e4205fbd7b9c34f0b26bd335de7f1bcb9a9187a2238388106d16c6672abea2')
+provider = IBMQ.get_provider(hub='ibm-q')
+
+backend = provider.get_backend('ibmq_qasm_simulator')
+
+#ibmqx_token = 'a93830f80226030329fc4e2e4d78c06bdf1942ce349fcf8f5c8021cfe8bd5abb01e4205fbd7b9c34f0b26bd335de7f1bcb9a9187a2238388106d16c6672abea2'
+#dev = qml.device('qiskit.ibmq', wires=2, backend='ibmq_qasm_simulator', ibmqx_token=ibmqx_token)
+
+q = QuantumRegister(1,'q')
+c = ClassicalRegister(1,'c')
+
+circuit = QuantumCircuit(q,c)
+
+circuit.h(q[0])
+
+####error here############
+circuit.x(q[0])#Bit flip error
+circuit.z(q[0])#Phase flip error
+############################
+
+circuit.h(q[0])
+
+circuit.barrier(q)
+
+circuit.measure(q[0],c[0])
+
+job = execute(circuit, backend, shots=1000)
+
+job_monitor(job)
+
+counts = job.result().get_counts()
+
+print("\n Uncorrected bit flip and phase error")
+print("--------------------------------------")
+print(counts)
+#{'1': 1000}
+
+#####Shor code starts here ########
+q = QuantumRegister(9,'q')
+c = ClassicalRegister(1,'c')
+
+circuit = QuantumCircuit(q,c)
+
+circuit.cx(q[0],q[3])
+circuit.cx(q[0],q[6])
+
+circuit.h(q[0])
+circuit.h(q[3])
+circuit.h(q[6])
+
+circuit.cx(q[0],q[1])
+circuit.cx(q[3],q[4])
+circuit.cx(q[6],q[7])
+
+circuit.cx(q[0],q[2])
+circuit.cx(q[3],q[5])
+circuit.cx(q[6],q[8])
+
+circuit.barrier(q)
+
+####error here############
+circuit.x(q[0])#Bit flip error
+circuit.z(q[0])#Phase flip error
+############################
+
+circuit.barrier(q)
+circuit.cx(q[0],q[1])
+circuit.cx(q[3],q[4])
+circuit.cx(q[6],q[7])
+
+circuit.cx(q[0],q[2])
+circuit.cx(q[3],q[5])
+circuit.cx(q[6],q[8])
+
+circuit.ccx(q[1],q[2],q[0])
+circuit.ccx(q[4],q[5],q[3])
+circuit.ccx(q[8],q[7],q[6])
+
+circuit.h(q[0])
+circuit.h(q[3])
+circuit.h(q[6])
+
+circuit.cx(q[0],q[3])
+circuit.cx(q[0],q[6])
+circuit.ccx(q[6],q[3],q[0])
+
+circuit.barrier(q)
+
+circuit.measure(q[0],c[0])
+
+circuit.draw(output='mpl',filename='shorcode.png') #Draws an image of the circuit
+
+job = execute(circuit, backend, shots=1000)
+
+job_monitor(job)
+
+counts = job.result().get_counts()
+
+print("\nShor code with bit flip and phase error")
+print("----------------------------------------")
+print(counts)
+#{'0': 1000}
+#input()
+
+
+               +---+           ¦ +---++---+ ¦           +---++---+          +---+ ¦ +-+
+q_0: --¦----¦--¦ H +--¦----¦---¦-¦ X +¦ Z +-¦---¦----¦--¦ X +¦ H +--¦----¦--¦ X +-¦-¦M+
+       ¦    ¦  +---++---+  ¦   ¦ +---++---+ ¦ +---+  ¦  +---++---+  ¦    ¦  +---+ ¦ +-+
+q_1: --+----+-------¦ X +--+---¦------------¦-¦ X +--+----¦---------+----+----+---¦--+-
+       ¦    ¦       +---++---+ ¦            ¦ +---++---+  ¦         ¦    ¦    ¦   ¦  ¦
+q_2: --+----+------------¦ X +-¦------------¦------¦ X +--¦---------+----+----+---¦--+-
+     +---+  ¦  +---+     +---+ ¦            ¦      +---++---++---++---+  ¦    ¦   ¦  ¦
+q_3: ¦ X +--+--¦ H +--¦----¦---¦------------¦---¦----¦--¦ X +¦ H +¦ X +--+----¦---¦--+-
+     +---+  ¦  +---++---+  ¦   ¦            ¦ +---+  ¦  +---++---++---+  ¦    ¦   ¦  ¦
+q_4: -------+-------¦ X +--+---¦------------¦-¦ X +--+----¦--------------+----+---¦--+-
+            ¦       +---++---+ ¦            ¦ +---++---+  ¦              ¦    ¦   ¦  ¦
+q_5: -------+------------¦ X +-¦------------¦------¦ X +--¦--------------+----+---¦--+-
+          +---++---+     +---+ ¦            ¦      +---++---++---+     +---+  ¦   ¦  ¦
+q_6: -----¦ X +¦ H +--¦----¦---¦------------¦---¦----¦--¦ X +¦ H +-----¦ X +--¦---¦--+-
+          +---++---++---+  ¦   ¦            ¦ +---+  ¦  +---++---+     +---+      ¦  ¦
+q_7: ---------------¦ X +--+---¦------------¦-¦ X +--+----¦-----------------------¦--+-
+                    +---++---+ ¦            ¦ +---++---+  ¦                       ¦  ¦
+q_8: --------------------¦ X +-¦------------¦------¦ X +--¦-----------------------¦--+-
+                         +---+ ¦            ¦      +---+                          ¦  ¦
+c: 1/----------------------------------------------------------------------------------
+                                                                                     0
+
+
+###################################interpretion#######################################################################################################################################################################################################################################################################################################################################
+#
+#The Shor code is a 9 qubit circuit that requires 8 ancillary qubits to correct 1 qubit. For simplification we will call the 1st qubit that we want to correct the main qubit and the ancillary qubits 1 to 8. If you have seen our tutorials on the bit flip and phase flip circuit then the Shor code will look very familiar as it uses the same gates and ordering. 
+#
+#The Shor code works by first taking the computational state of the main qubit and transferring it to the 3rd and 6th qubit. These qubits are used for correcting phase errors. After this these qubits are put in to superposition using a Hadamard gate. Next the states of the main qubit as well as the 3rd, and 6th qubits use CNOT gates to transfer their states
+# to ancillary qubits responsible for correcting bit flips. More specifically the main qubit transfers its state to the 1st and 2nd ancillary qubit. The 3rd transfers it state to the 4th and 5th. The 6th transfer its state to the 7th and 8th qubit. 
+#
+#After this a bit flip or phase flip may occur on the main qubit. in the diagram above this is denoted as E. Next the previous step is repeated. Toffoli gates are then applied to the main qubit as well as the 3rd and 6th qubit where the control qubits are the auxiliary qubits responsible for phase correction. 
+#
+#After this Hadamard gates are applied to the main qubit as well as the 3rd and 6th qubit to bring them out of superposition. Then CNOT gates are applied to the 3rd and 6th qubit where the control qubit is the main qubit. Finally a toffoli gate is applied to the main qubit which is controlled by the 3rd and 6th qubit. 
+#
+#############################################################################################################################################################################################################################################################################################################################################################################################################################################################
+
+#The Shor code is a 9 qubit circuit that requires 8 ancillary qubits to correct 1 qubit. For simplification we will call the 4th qubit that we want to correct the main qubit and the ancillary qubits 1 to 8. If you have seen our tutorials on the bit flip and phase flip circuit then the Shor code will look very familiar as it uses the same gates and ordering. 
+
+
+q = QuantumRegister(9,'q')
+c = ClassicalRegister(1,'c')
+
+circuit = QuantumCircuit(q,c)
+
+circuit.h(q[4])
+
+####error here############
+circuit.x(q[4])#Bit flip error
+circuit.z(q[4])#Phase flip error
+############################
+
+circuit.h(q[4])
+
+circuit.barrier(q)
+
+circuit.measure(q[4],c[0])
+
+job = execute(circuit, backend, shots=1000)
+
+job_monitor(job)
+
+counts = job.result().get_counts()
+
+print("\n Uncorrected bit flip and phase error")
+print("--------------------------------------")
+print(counts)
+#{'1': 1000}
+
+#####Shor code starts here ########
+q = QuantumRegister(9,'q')
+c = ClassicalRegister(1,'c')
+
+circuit = QuantumCircuit(q,c)
+
+circuit.cx(q[4],q[7])
+circuit.cx(q[4],q[1])
+
+circuit.h(q[1])
+circuit.h(q[4])
+circuit.h(q[7])
+
+circuit.cx(q[1],q[2])
+circuit.cx(q[4],q[5])
+circuit.cx(q[7],q[8])
+
+circuit.cx(q[1],q[0])
+circuit.cx(q[4],q[3])
+circuit.cx(q[7],q[6])
+
+circuit.barrier(q)
+
+####error here############
+circuit.x(q[4])#Bit flip error
+circuit.z(q[4])#Phase flip error
+############################
+
+circuit.barrier(q)
+circuit.cx(q[1],q[2])
+circuit.cx(q[4],q[5])
+circuit.cx(q[7],q[8])
+
+circuit.cx(q[1],q[0])
+circuit.cx(q[4],q[3])
+circuit.cx(q[7],q[6])
+
+circuit.ccx(q[2],q[0],q[1])
+circuit.ccx(q[5],q[3],q[4])
+circuit.ccx(q[8],q[6],q[7])
+
+circuit.h(q[1])
+circuit.h(q[4])
+circuit.h(q[7])
+
+circuit.cx(q[4],q[7])
+circuit.cx(q[4],q[1])
+circuit.ccx(q[1],q[7],q[4])
+
+circuit.barrier(q)
+
+circuit.measure(q[4],c[0])
+
+circuit.draw(output='mpl',filename='shorcode1.png') #Draws an image of the circuit
+
+job = execute(circuit, backend, shots=1000)
+
+job_monitor(job)
+
+counts = job.result().get_counts()
+
+print("\nShor code with bit flip and phase error")
+print("----------------------------------------")
+print(counts)
+#{'0': 1000}
+
+
+                         +---+ ¦            ¦      +---+                          ¦ 
+q_0: --------------------¦ X +-¦------------¦------¦ X +--¦-----------------------¦----
+          +---++---+     +---+ ¦            ¦      +---++---++---+     +---+      ¦
+q_1: -----¦ X +¦ H +--¦----¦---¦------------¦---¦----¦--¦ X +¦ H +-----¦ X +--¦---¦----
+          +---++---++---+      ¦            ¦ +---+     +---++---+     +---+  ¦   ¦
+q_2: -------+-------¦ X +------¦------------¦-¦ X +-------¦--------------+----+---¦----
+            ¦       +---++---+ ¦            ¦ +---++---+                 ¦    ¦   ¦
+q_3: -------+------------¦ X +-¦------------¦------¦ X +--¦--------------+----+---¦----
+            ¦  +---+     +---+ ¦ +---++---+ ¦      +---++---++---+       ¦  +---+ ¦ +-+
+q_4: --¦----¦--¦ H +--¦----¦---¦-¦ X +¦ Z +-¦---¦----¦--¦ X +¦ H +--¦----¦--¦ X +-¦-¦M+
+       ¦       +---++---+      ¦ +---++---+ ¦ +---+     +---++---+  ¦       +---+ ¦ +-+
+q_5: --+------------¦ X +------¦------------¦-¦ X +-------¦---------+---------+---¦--+-
+       ¦            +---¦      ¦            ¦ +---++---+            ¦         ¦   ¦  ¦
+q_6: --+------------¦ X +------¦------------¦------¦ X +--¦---------+---------+---¦--+-
+     +---++---+     +---+      ¦            ¦      +---++---++---++---+       ¦   ¦  ¦
+q_7: ¦ X +¦ H +--¦----¦--------¦------------¦---¦----¦--¦ X +¦ H +¦ X +-------¦---¦--+-
+     +---++---++---+           ¦            ¦ +---+     +---++---++---+           ¦  ¦
+q_8: ----------¦ X +-----------¦------------¦-¦ X +-------¦-----------------------¦--+-
+               +---+           ¦            ¦ +---+                               ¦  ¦
+c: 1/----------------------------------------------------------------------------------
+                                                                                     0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
